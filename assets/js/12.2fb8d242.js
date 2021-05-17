@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{371:function(e,n,t){"use strict";t.r(n);var o={name:"commonFooter.vue"},r=t(46),c=Object(r.a)(o,(function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\r\n  footer\r\n")])}),[],!1,null,"6605cadd",null);n.default=c.exports}}]);
